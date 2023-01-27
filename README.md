@@ -1,2 +1,4 @@
 # Auto-ML
-![alt text](https://github.com/Raphael-Jin/Auto-ML/arch.jpg)
+<div align=center>
+<img src="./arch.jpg" width=70% align=center />
+</div>
